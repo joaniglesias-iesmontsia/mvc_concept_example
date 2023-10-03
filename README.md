@@ -1,1 +1,1 @@
-Hyper-simple example of MVC pattern
+Supersimple example of MVC pattern
